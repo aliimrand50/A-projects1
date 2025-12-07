@@ -1,0 +1,5 @@
+{
+  "name": "NotiPlan Multi-Lang",
+  "description": "A Notion-style productivity app with To-Do lists, Calendar, and settings. Supports Turkish, Kurdish, Arabic, and English with persistent data storage and a mobile-first design.",
+  "requestFramePermissions": []
+}
